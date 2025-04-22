@@ -32,7 +32,7 @@ export const projects = [
   },
   {
     title: "Portfolio",
-    url: "https://narendra-portfolio-sigma.vercel.app/",
+    url: "https://narendra-portfolio-smoky.vercel.app/",
     image: "Images/Portfollio.png",
     description: "Yep this is my website. Thanks for visiting!"
   },
